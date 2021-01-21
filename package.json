@@ -36,7 +36,7 @@
     "audify": "^1.5.2",
     "express": "^4.17.1",
     "naudiodon": "^2.2.1",
-    "socket.io": "^2.3.0",
+    "socket.io": "^2.4.0",
     "socket.io-stream": "^0.9.1",
     "wav": "^1.0.2"
   }
