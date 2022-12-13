@@ -34,7 +34,7 @@
   },
   "dependencies": {
     "audify": "^1.5.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "naudiodon": "^2.2.1",
     "socket.io": "^2.3.0",
     "socket.io-stream": "^0.9.1",
